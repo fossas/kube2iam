@@ -1,3 +1,11 @@
+# fossas/kube2iam
+
+This is a fork of [kube2iam](https://github.com/jtblin/kube2iam) that we use in order to build https://github.com/jtblin/kube2iam/pull/325. For details, see https://github.com/jtblin/kube2iam/pull/325#issuecomment-1416527330.
+
+Original README is preserved below.
+
+----
+
 [![Build Status](https://api.travis-ci.com/jtblin/kube2iam.svg?branch=master)](https://app.travis-ci.com/github/jtblin/kube2iam)
 [![GitHub tag](https://img.shields.io/github/tag/jtblin/kube2iam.svg?maxAge=86400)](https://github.com/jtblin/kube2iam)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jtblin/kube2iam.svg)](https://hub.docker.com/r/jtblin/kube2iam/)
